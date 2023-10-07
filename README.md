@@ -1,3 +1,3 @@
 # DashBoard
 This is my first repository,
-Author - Dipak Singh
+Author - Dipak Singh (Apna Collage)
